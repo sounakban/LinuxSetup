@@ -4,12 +4,11 @@
 
 sudo apt update -y
 
-echo Installing ExFat and Java support, Press Enter to continue
+echo "If you plan on installing anaconda, make sure the Anaconda installer is in the \"nstallers\" Directory before continuing"
+read response
+echo "Installing ExFat and Java support, Press Enter to continue"
 read response
 sudo apt install default-jdk -y
-echo JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64" >> /etc/environment
-source /etc/environment
-echo "source /etc/environment" >> ~/.bashrc
 sudo add-apt-repository universe -y
 sudo apt-get install exfat-fuse exfat-utils -y
 
@@ -127,8 +126,8 @@ echo "Open a new terminal Window and run the following commands:"
 echo "On Ubuntu:"
 echo "sudo echo JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64\" >> ~/.bashrc"
 echo "On Other OS:"
-echo "sudo echo \"source /etc/environment\" >> ~/.bashrc"
 echo "su"
 echo "echo JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64\" >> /etc/environment"
 echo "exit"
+echo "sudo echo \"source /etc/environment\" >> ~/.bashrc"
 
