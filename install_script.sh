@@ -13,7 +13,7 @@ echo "source /etc/environment" >> ~/.bashrc
 sudo add-apt-repository universe -y
 sudo apt-get install exfat-fuse exfat-utils -y
 
-echo Do you want to install anaconda? [type y/n]
+echo "Do you want to install anaconda? [type y/n]"
 read var
 if [ $var == "y" ] 
 then 
@@ -22,17 +22,17 @@ then
 	sudo sh ./Installers/Anaconda*
 fi
 
-echo Do you want to install E-mail client (MailSpring)? [type y/n]
+echo "Do you want to install E-mail client (MailSpring)? [type y/n]"
 read mailsp_response
 if [ $mailsp_response == "y" ] 
 then
-	sudo apt install gdebi-core wget
+	sudo apt install gdebi-core wget -y
 	wget -O ./mailspring.deb "https://updates.getmailspring.com/download?platform=linuxDeb"
 	sudo gdebi ./mailspring.deb
 	rm ./mailspring.deb
 fi
 
-echo Do you want to install Jdownloader? [type y/n]
+echo "Do you want to install Jdownloader? [type y/n]"
 read var
 if [ $var == "y" ] 
 then 
@@ -44,23 +44,23 @@ fi
 
 echo "Do you want to install all deb files (updated?) in installers directory? [type y/n]"
 read deb_response
-echo Do you want to install VLC Media Player? [type y/n]
+echo "Do you want to install VLC Media Player? [type y/n]"
 read vlc_response
-echo Do you want to install Disk-Utility? [type y/n]
+echo "Do you want to install Disk-Utility? [type y/n]"
 read DskUlt_response
-echo Do you want to install Partition Manager (GParted)? [type y/n]
+echo "Do you want to install Partition Manager (GParted)? [type y/n]"
 read pm_response
-echo Do you want to install Clipboard Manager (ClipIt)? [type y/n]
+echo "Do you want to install Clipboard Manager (ClipIt)? [type y/n]"
 read clpt_response
-echo Do you want to install Slack? [type y/n]
+echo "Do you want to install Slack? [type y/n]"
 read slack_response
-echo Do you want to install DarkTable? [type y/n]
+echo "Do you want to install DarkTable? [type y/n]"
 read darktable_response
-echo Do you want to install RawTherapee? [type y/n]
+echo "Do you want to install RawTherapee? [type y/n]"
 read rawtp_response
-echo Do you want to install Git? [type y/n]
+echo "Do you want to install Git? [type y/n]"
 read git_response
-echo Do you want to install Code Editor (VSCode)? [type y/n]
+echo "Do you want to install Code Editor (VSCode)? [type y/n]"
 read vscode_response
 
 
@@ -102,7 +102,7 @@ then
 fi
 if [ $vscode_response == "y" ] 
 then
-	sudo apt install software-properties-common apt-transport-https wget
+	sudo apt install software-properties-common apt-transport-https wget -y
 	wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 	sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 	sudo apt update -y
@@ -124,6 +124,9 @@ echo "## GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode            
 echo "################################################################################"
 read response
 echo "Open a new terminal Window and run the following commands:"
+echo "On Ubuntu:"
+echo "sudo echo JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64\" >> ~/.bashrc"
+echo "On Other OS:"
 echo "sudo echo \"source /etc/environment\" >> ~/.bashrc"
 echo "su"
 echo "echo JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64\" >> /etc/environment"
