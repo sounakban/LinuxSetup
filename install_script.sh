@@ -4,6 +4,8 @@
 
 sudo apt update -y
 
+echo "If you want to install anything that this script does not automatically instal, add \".deb\" file to Installers directory"
+echo "[For the complete list of packages this script contains refer to readme]"
 echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" Directory before continuing"
 read response
 echo "Installing ExFat and Java support, Press Enter to continue"
@@ -119,7 +121,8 @@ echo "##########################################################################
 echo "## Congrats! Everything has been installed!                                   ##"
 echo "## Complete package list [Check whether everything was installed correctly]:  ##"
 echo "## Exfat, Java, Anaconda, MailSpring, Jdownloader, VLC, Disk-Utility          ##"
-echo "## GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode                ##"echo "##                      Designed by Sounak Banerjee                  ##"
+echo "## GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode                ##"
+echo "##                         Courtsey of Sounak Banerjee                        ##"
 echo "################################################################################"
 read response
 echo "Open a new terminal Window and run the following commands:"
