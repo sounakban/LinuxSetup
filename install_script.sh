@@ -4,9 +4,9 @@
 
 sudo apt update -y
 
-echo "If you want to install anything that this script does not automatically instal, add \".deb\" file to Installers directory"
+echo "If you want to install anything that this script does not automatically instal, add \".deb\" file to \"Installers\" directory"
 echo "[For the complete list of packages this script contains refer to readme]"
-echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" Directory before continuing"
+echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" directory before continuing"
 read response
 echo "Installing ExFat and Java support, Press Enter to continue"
 read response
