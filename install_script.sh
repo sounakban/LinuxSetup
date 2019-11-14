@@ -4,7 +4,7 @@
 
 sudo apt update -y
 
-echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"nstallers\" Directory before continuing"
+echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" Directory before continuing"
 read response
 echo "Installing ExFat and Java support, Press Enter to continue"
 read response
