@@ -1,0 +1,84 @@
+# Install list online":
+#	*) Anaconda (Option : Google Colab)
+#	*) Google Chrome
+#	*) Cloudstickynotes
+#	*) Mendeley
+#	*) Atom (64-bit)
+
+
+# Install from app store
+#	*) VLC
+#	*) GParted
+#	*) Firefox (Remove internal firefox installation first)
+#	*) Jdownloader
+#	*) Brave
+#	**) Opera
+#	**.1) R (use RCloud)
+#	**.2) Rstudio (use RCloud)
+#	**) Latex (use Overleaf : OverLeafDesktop)
+#	*) Mainspring [Change delete shortcut in preferences]
+#	*) Slack
+#	*) Tusk (Evernote Client)
+#	*) clipit
+#	*) VScode
+#	*) Rambox
+#	*) RawTherapee
+#	*) Darktable
+#	*) Kodi
+
+
+
+##################################
+## Install Through Command Line ##
+##################################
+
+
+# Git
+sudo apt install git
+
+# install disk utility
+sudo apt install gnome-disk-utility
+
+# Install exFAT support
+sudo add-apt-repository universe
+sudo apt-get install exfat-fuse exfat-utils
+
+# Install Java(Oracle) 8
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt update
+sudo apt install oracle-java8-installer
+sudo update-alternatives --config java
+
+# Install Java(Oracle) 11
+sudo add-apt-repository ppa:linuxuprising/java
+sudo apt update
+sudo apt install oracle-java11-installer
+sudo apt install oracle-java11-set-default
+
+# Install pip2
+sudo apt install python-pip
+
+# Have both python on anaconda (Run commands after installing anaconda)
+# (Sources : 
+#	https://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython
+#	https://towardsdatascience.com/environment-management-with-conda-python-2-3-b9961a8a5097)
+pip2 install ipykernel
+conda create -n py27 python=2.7 ipykernel
+conda activate py27
+sudo python -m ipykernel install --name py27
+#For Python 3 : conda create -n py36 python=3.6 ipykernel
+	# To activate specific kernels:
+		conda activate py27
+	# To deactivate
+		conda deactivate
+
+# Install texlive
+## Download ipynb as pdf:
+	sudo apt install texlive-base -y
+			OR
+	sudo apt install texlive-xetex -y
+
+	pip install nbconvert
+	pip2 install nbconvert
+## If all packages are needed [Takes too long to install]
+	sudo apt-get install texlive-full
