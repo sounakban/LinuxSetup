@@ -39,7 +39,7 @@ if [ $var == "y" ]
 then 
     echo Anaconda Installation will start, press enter when ready
     read response
-	sudo sh ./Installers/JD2*
+    sh ./Installers/JD2*
 fi
 
 
