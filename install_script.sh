@@ -20,7 +20,7 @@ if [ $var == "y" ]
 then 
     echo Anaconda Installation will start, press enter when ready
     read response
-	sudo sh ./Installers/Anaconda*
+    sh ./Installers/Anaconda*
 fi
 
 echo "Do you want to install E-mail client (MailSpring)? [type y/n]"
