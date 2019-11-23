@@ -4,7 +4,9 @@
 
 sudo apt update -y
 
-echo "If you want to install anything that this script does not automatically instal, add \".deb\" file to \"Installers\" directory"
+
+echo "************************************************************************"
+echo "If you want to install anything that this script does not automatically install, add \".deb\" file to \"Installers\" directory"
 echo "[For the complete list of packages this script contains refer to readme]"
 echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" directory before continuing"
 read response
@@ -37,7 +39,7 @@ echo "Do you want to install Jdownloader? [type y/n]"
 read var
 if [ $var == "y" ] 
 then 
-    echo Anaconda Installation will start, press enter when ready
+    echo JDownloader Installation will start, press enter when ready
     read response
     sh ./Installers/JD2*
 fi
