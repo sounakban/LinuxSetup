@@ -23,7 +23,8 @@ then
     rm -r ~/anaconda3
     echo Anaconda Installation will start, press enter when ready
     read response
-    sh ./Installers/Anaconda*
+    chmod 777 ./Installers/Anaconda*
+    ./Installers/Anaconda*
 fi
 
 echo "Do you want to install E-mail client (MailSpring)? [type y/n]"
