@@ -16,10 +16,11 @@ sudo apt install default-jdk -y
 sudo add-apt-repository universe -y
 sudo apt install exfat-fuse exfat-utils nfs-common cifs-utils-y
 
-echo "Do you want to install anaconda? [type y/n]"
+echo "Do you want to install anaconda? (make sure you have the installer in the 'installers' folder) [type y/n]"
 read var
 if [ $var == "y" ] 
-then 
+then
+    rm -r ~/anaconda3
     echo Anaconda Installation will start, press enter when ready
     read response
     sh ./Installers/Anaconda*
@@ -135,4 +136,3 @@ echo "su"
 echo "echo JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64\" >> /etc/environment"
 echo "exit"
 echo "sudo echo \"source /etc/environment\" >> ~/.bashrc"
-
