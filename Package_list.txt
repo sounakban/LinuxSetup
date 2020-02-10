@@ -4,6 +4,7 @@
 #	*) Cloudstickynotes
 #	*) Mendeley
 #	*) Atom (64-bit)
+#	*) Master PDF Editor (64-bit)
 
 
 # Install from app store
