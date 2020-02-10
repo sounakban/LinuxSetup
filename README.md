@@ -13,3 +13,6 @@ Exfat support, Java, Anaconda [Requires installer], MailSpring, Jdownloader [Req
 
 Other common Packages [Script does not install]:
 For R use R-Cloud; For Latex use Overleaf
+
+
+Other optional packages: Solaar (Logitech Wireless device manager)
