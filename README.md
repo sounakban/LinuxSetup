@@ -6,7 +6,7 @@ It aslo contains a set of packages for regular users and programmers.
 Run the code with the command "bash install_script.sh" file directly from terminal.
 Feel free to leave any helpful comments.
 
-Recommended ".deb" Downloads : Rambox, Mendeley, MasterPDF Editor
+Recommended ".deb" Downloads : Rambox, Mendeley, Qoppa PDF Studio
 
 The script contains code for installing the following packages :
 Exfat support, Java, Anaconda [Requires installer], MailSpring, Jdownloader [Requires installer], VLC, Disk-Utility, GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode
