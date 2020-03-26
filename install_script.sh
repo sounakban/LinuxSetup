@@ -3,6 +3,7 @@
 # Run script with : bash install_scripts.sh
 
 sudo apt update -y
+sudo apt install snap
 
 
 echo "************************************************************************"
@@ -53,18 +54,26 @@ echo "Do you want to install VLC Media Player? [type y/n]"
 read vlc_response
 echo "Do you want to install Disk-Utility? [type y/n]"
 read DskUlt_response
-echo "Do you want to install Partition Manager (GParted)? [type y/n]"
+echo "Do you want to install GParted (Partition Manager)? [type y/n]"
 read pm_response
-echo "Do you want to install Clipboard Manager (ClipIt)? [type y/n]"
+echo "Do you want to install ClipIt (Clipboard Manager)? [type y/n]"
 read clpt_response
 echo "Do you want to install Slack? [type y/n]"
 read slack_response
-echo "Do you want to install DarkTable? [type y/n]"
+echo "Do you want to install DarkTable (Picture Editor)? [type y/n]"
 read darktable_response
-echo "Do you want to install RawTherapee? [type y/n]"
+echo "Do you want to install RawTherapee (Picture Editor)? [type y/n]"
 read rawtp_response
 echo "Do you want to install Git? [type y/n]"
 read git_response
+echo "Do you want to install Brave (Browser)? [type y/n]"
+read brave_response
+echo "Do you want to install Rambox (Social media Tool)? [type y/n]"
+read rambox_response
+echo "Do you want to install Mailspring (Email client)? [type y/n]"
+read mailspring_response
+echo "Do you want to install Caffeine (keep computer awake)? [type y/n]"
+read caffeine_response
 echo "Do you want to install Code Editor (VSCode)? [type y/n]"
 read vscode_response
 
@@ -104,6 +113,22 @@ fi
 if [ $git_response == "y" ] 
 then
 	sudo apt install git -y
+fi
+if [ $caffeine_response == "y" ] 
+then
+	sudo apt install -y caffeine
+fi
+if [ $brave_response == "y" ] 
+then
+	sudo snap install -y brave
+fi
+if [ $rambox_response == "y" ] 
+then
+	sudo snap install -y rambox
+fi
+if [ $mailspring_response == "y" ] 
+then
+	sudo snap install -y mailspring
 fi
 if [ $vscode_response == "y" ] 
 then
