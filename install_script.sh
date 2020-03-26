@@ -28,16 +28,6 @@ then
     ./Installers/Anaconda*
 fi
 
-echo "Do you want to install E-mail client (MailSpring)? [type y/n]"
-read mailsp_response
-if [ $mailsp_response == "y" ] 
-then
-	sudo apt install gdebi-core wget -y
-	wget -O ./mailspring.deb "https://updates.getmailspring.com/download?platform=linuxDeb"
-	sudo gdebi ./mailspring.deb
-	rm ./mailspring.deb
-fi
-
 echo "Do you want to install Jdownloader? [type y/n]"
 read var
 if [ $var == "y" ] 
