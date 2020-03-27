@@ -16,7 +16,7 @@ read response
 sudo apt install default-jdk -y
 sudo add-apt-repository universe -y
 sudo apt update
-sudo apt install exfat-fuse exfat-utils nfs-common cifs-utils-y
+sudo apt install exfat-fuse exfat-utils nfs-common cifs-utils -y
 
 echo "Do you want to install anaconda? (make sure you have the installer in the 'installers' folder) [type y/n]"
 read var
