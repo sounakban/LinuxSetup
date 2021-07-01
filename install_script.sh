@@ -11,12 +11,14 @@ echo "If you want to install anything that this script does not automatically in
 echo "[For the complete list of packages this script contains refer to readme]"
 echo "If you plan on installing anaconda and JDownloader, make sure the setup files are downloaded in the \"Installers\" directory before continuing"
 read response
-echo "Installing ExFat, remote mounting protocols and Java support, Press Enter to continue"
+echo "Installing ExFat, remote mounting protocols, auto-cpufreq (power management software) and Java support, Press Enter to continue"
 read response
 sudo apt install default-jdk -y
 sudo add-apt-repository universe -y
 sudo apt update
 sudo apt install exfat-fuse exfat-utils nfs-common cifs-utils -y
+sudo apt install snap -y
+sudo snap install auto-cpufreq -y
 
 echo "Do you want to install anaconda? (make sure you have the installer in the 'installers' folder) [type y/n]"
 read var
