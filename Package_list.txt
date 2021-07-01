@@ -44,6 +44,9 @@ sudo apt install gnome-disk-utility
 sudo add-apt-repository universe
 sudo apt-get install exfat-fuse exfat-utils
 
+# Install power management software to avoid linux battery draining issue
+sudo snap install auto-cpufreq
+
 # Install Java(Oracle) 8
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt update
