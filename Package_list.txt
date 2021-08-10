@@ -37,6 +37,10 @@
 # Git
 sudo apt install git
 
+# Synaptic ackage manager, GUIfor installing all apt packages
+sudo add-apt-repository universe
+sudo apt install synaptic
+
 # install disk utility
 sudo apt install gnome-disk-utility
 
