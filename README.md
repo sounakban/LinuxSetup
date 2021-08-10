@@ -11,7 +11,7 @@ Feel free to leave any helpful comments.
 Recommended ".deb" Downloads : Mendeley, Qoppa PDF Studio
 
 The script contains code for installing the following packages :
-Exfat support, linux power management (optimizes for performance and battery life), Java, Anaconda [Requires installer], MailSpring, Jdownloader [Requires installer], VLC, Disk-Utility, GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode, Brave, Rambox, Caffeine
+Exfat support, Synaptic Package Manager, linux power management (optimizes for performance and battery life), Java, Anaconda [Requires installer], MailSpring, Jdownloader [Requires installer], VLC, Disk-Utility, GParted, Clipit, Slack, DarkTable, RawTherapee, Git, VSCode, Brave, Rambox, Caffeine
 
 Other common Packages [Script does not install]:
 For R use R-Cloud; For Latex use Overleaf
