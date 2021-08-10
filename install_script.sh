@@ -2,6 +2,7 @@
 
 # Run script with : bash install_scripts.sh
 
+sudo add-apt-repository universe
 sudo apt update -y
 sudo apt install snap
 
@@ -19,6 +20,7 @@ sudo apt update
 sudo apt install exfat-fuse exfat-utils nfs-common cifs-utils -y
 sudo apt install snap -y
 sudo snap install auto-cpufreq -y
+sudo snap install synaptic -y
 
 echo "Do you want to install anaconda? (make sure you have the installer in the 'installers' folder) [type y/n]"
 read var
