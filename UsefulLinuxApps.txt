@@ -2,6 +2,7 @@ Useful GNOME applications (Circle Apps):
   	*) Fragments - Minimalist torrent client
   	*) Blanket - White noise Generator
   	*) Tengram - Multiaccount Manager (Whatsapp, Telegram, Drive, Mail etc...)
+	*) GNOME Tweaks - A tool to twaek Gnome UX
   
 Useful FlatPack Applications:
   	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator
