@@ -1,0 +1,36 @@
+Useful GNOME applications (Circle Apps):
+  	*) Fragments - Minimalist torrent client
+  	*) Blanket - White noise Generator
+  	*) Tengram - Multiaccount Manager (Whatsapp, Telegram, Drive, Mail etc...)
+  
+Useful FlatPack Applications:
+  	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator
+
+
+Online Download Applications:
+	*) Anaconda (Option : Google Colab)
+	*) Google Chrome
+	*) Master PDF Editor (64-bit)
+	*) Rambox - Multiaccount Manager
+  	*) Material Shell [https://material-shell.com/interface] - For optimal linux desktop experiences
+
+
+Install from app store (Ubuntu) or Flathub (Fedora)
+	*) VLC
+	*) GParted
+	*) Firefox (Remove internal firefox installation first)
+	*) Jdownloader
+	*) Brave
+	*) Zotero 
+	**.1) R (use RCloud)
+	**.2) Rstudio (use RCloud)
+	**) Latex (use Overleaf : OverLeafDesktop)
+	*) Mainspring [Change delete shortcut in preferences]
+	*) Slack
+	*) clipit - Clipboard Manager
+	*) VScode - Code Editor
+	*) RawTherapee - Image Editor
+	*) Darktable - Image Editor
+	*) Kodi - Entertainement Centre
+	
+	

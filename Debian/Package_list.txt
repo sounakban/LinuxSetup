@@ -1,34 +1,3 @@
-# Install list online":
-#	*) Anaconda (Option : Google Colab)
-#	*) Google Chrome
-#	*) Cloudstickynotes
-#	*) Mendeley
-#	*) Atom (64-bit)
-#	*) Master PDF Editor (64-bit)
-
-
-# Install from app store
-#	*) VLC
-#	*) GParted
-#	*) Firefox (Remove internal firefox installation first)
-#	*) Jdownloader
-#	*) Brave
-#	**) Opera
-#	**.1) R (use RCloud)
-#	**.2) Rstudio (use RCloud)
-#	**) Latex (use Overleaf : OverLeafDesktop)
-#	*) Mainspring [Change delete shortcut in preferences]
-#	*) Slack
-#	*) Tusk (Evernote Client)
-#	*) clipit
-#	*) VScode
-#	*) Rambox
-#	*) RawTherapee
-#	*) Darktable
-#	*) Kodi
-
-
-
 ##################################
 ## Install Through Command Line ##
 ##################################
