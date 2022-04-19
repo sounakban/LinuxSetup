@@ -1,37 +1,50 @@
-Useful GNOME applications (Circle Apps):
-  	*) Fragments - Minimalist torrent client
-  	*) Blanket - White noise Generator
-  	*) Tengram - Multiaccount Manager (Whatsapp, Telegram, Drive, Mail etc...)
-	*) GNOME Tweaks - A tool to twaek Gnome UX
-  
-Useful FlatPack Applications:
-  	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator
+Application Source Keys:
+	*) GNOME applications (Circle Apps) - GA
+	*) FlatPack Applications - FA
+	*) Online Download Applications - ODA
+	*) Install from app store (Ubuntu) or Flathub (Fedora) - AppSt
+----------------------------------------------------------------------------------------------------------------------
+
+Multimedia Editing:
+	*) RawTherapee - Adobe Lightroom Alternative [AppSt]
+	*) DarkTable - Raw Image Editing [AppSt]
 
 
-Online Download Applications:
-	*) Anaconda (Option : Google Colab)
-	*) Google Chrome
-	*) Master PDF Editor (64-bit)
-	*) Rambox - Multiaccount Manager
-  	*) Material Shell [https://material-shell.com/interface] - For optimal linux desktop experiences
-
-
-Install from app store (Ubuntu) or Flathub (Fedora)
-	*) VLC
-	*) GParted
-	*) Firefox (Remove internal firefox installation first)
-	*) Jdownloader
-	*) Brave
-	*) Zotero 
-	**.1) R (use RCloud)
-	**.2) Rstudio (use RCloud)
-	**) Latex (use Overleaf : OverLeafDesktop)
-	*) Mainspring [Change delete shortcut in preferences]
-	*) Slack
-	*) clipit - Clipboard Manager
-	*) VScode - Code Editor
-	*) RawTherapee - Image Editor
-	*) Darktable - Image Editor
-	*) Kodi - Entertainement Centre
+Multimedia Viewing:
+	*) VLC [AppSt]
+	*) Kodi - Multi-Account app for Online Streaming [AppSt]
 	
 	
+System Utilities:
+	*) Gparted [AppSt]
+	*) GNOME Tweaks - A tool to twaek Gnome UX [GA]
+	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator [FA]
+	*) Material Shell [https://material-shell.com/interface] - For optimal linux desktop experiences [ODA]
+	
+	
+General Utilities:
+	*) ClipIt - Clipboard Manager [AppSt]
+	*) Blanket - White noise Generator [GA]
+	
+	
+Web:
+	*) JDownloader [AppSt]
+	*) Brave - Web Browser [AppSt]
+	*) Google Chrome - Web Browser [ODA]
+	*) Mailspring (Change delete button action in preferences) [AppSt]
+	*) Tengram - Multiaccount Manager (Whatsapp, Telegram, Drive, Mail etc...) [GA]
+	*) Rambox - Multiaccount Manager [ODA]
+	*) Fragments - Minimalist torrent client [GA]
+	
+	
+Academic:
+	*) Master PDF Editor (64-bit) [ODA]
+	*) Zotero [AppSt]
+	*) R-base & R-Studio (Alternative: RCloud)
+	*) Latex (Alternative: Overleaf)
+	*) VSCode - Code Editor [AppSt]
+	*) Anaconda - R and Python Programming (Alternative: Google Colab) [ODA]
+	
+	
+Social:
+	*) Slack [AppSt]
