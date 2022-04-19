@@ -1,13 +1,21 @@
 Application Source Keys:
 	*) GNOME applications (Circle Apps) - GA
-	*) FlatPack Applications - FA
+	*) FlatHub or SnapCraft Applications - FSA
+	*) FlatHub Exclusive Applications - FEA
 	*) Online Download Applications - ODA
-	*) Install from app store (Ubuntu) or Flathub (Fedora) - AppSt
+	*) Install from app store, apt for Ubuntu (sometimes need PPAs) & dnf or Flathub for Fedora - AppSt
 ----------------------------------------------------------------------------------------------------------------------
 
 Multimedia Editing:
+	*) Gimp - Adobe Photoshop Alternative, Powerful Picture Editor [AppSt]
+	*) KdenLive - Video Editor [FSA]
+	*) HandBrake - Video Converter [FSA]
 	*) RawTherapee - Adobe Lightroom Alternative [AppSt]
 	*) DarkTable - Raw Image Editing [AppSt]
+	*) Krita - Adobe Illustrator Alternative, Digital Painting [FSA]
+	*) InkScape - Vector Graphics Design [AppSt]
+	*) Blender - 3D Modelling [AppSt]
+	*) Audacity - Audui recording and editing [AppSt]
 
 
 Multimedia Viewing:
@@ -18,7 +26,7 @@ Multimedia Viewing:
 System Utilities:
 	*) Gparted [AppSt]
 	*) GNOME Tweaks - A tool to twaek Gnome UX [GA]
-	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator [FA]
+	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator [FEA]
 	*) Material Shell [https://material-shell.com/interface] - For optimal linux desktop experiences [ODA]
 	
 	
@@ -38,10 +46,12 @@ Web:
 	
 	
 Academic:
+	*) LibreOffice - Office Suite [AppSt]
+	*) OnlyOffice - Basic, word, excel and powerpoint office but more userfriendly than Libre Office [FSA]
 	*) Master PDF Editor (64-bit) [ODA]
 	*) Zotero [AppSt]
-	*) R-base & R-Studio (Alternative: RCloud)
-	*) Latex (Alternative: Overleaf)
+	*) R-base & R-Studio (Alternative: RCloud) [AppSt]
+	*) Latex (Alternative: Overleaf) [AppSt]
 	*) VSCode - Code Editor [AppSt]
 	*) Anaconda - R and Python Programming (Alternative: Google Colab) [ODA]
 	
