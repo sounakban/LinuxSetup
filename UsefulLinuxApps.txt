@@ -33,6 +33,7 @@ System Utilities:
 General Utilities:
 	*) ClipIt - Clipboard Manager [AppSt]
 	*) Blanket - White noise Generator [GA]
+	*) Boxes - Virtualization tool using QEMU [GA]
 	
 	
 Web:
