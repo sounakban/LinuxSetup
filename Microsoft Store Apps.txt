@@ -1,0 +1,11 @@
+Appstore Apps
+	Poiwertoys
+	Drawboard PDF
+	Files App - Modern file manager
+	VLC
+Optional:
+	Adobe Photoshop Express
+	Journal
+	Amazon Appstore
+	Splash
+	FocusCommit
