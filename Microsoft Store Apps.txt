@@ -23,6 +23,9 @@
 	winget install -e --id WinSCP.WinSCP --accept-package-agreements
 	# Advanced Files app
 	winget install -e --id Files-Community.Files --accept-package-agreements
+	# Zotero
+	winget install -e --id Zotero.Zotero --accept-package-agreements
+# NOTE: you can create a '.bat' file with the commands for the softwares you want to install and just run the 'bat' file.
 	
 
 # Install from Appstore
