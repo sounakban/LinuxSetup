@@ -25,6 +25,10 @@
 	winget install -e --id Files-Community.Files --accept-package-agreements --accept-source-agreements
 	# Zotero
 	winget install -e --id Zotero.Zotero --accept-package-agreements --accept-source-agreements
+	# Discord
+	winget install -e --id Discord.Discord --accept-package-agreements --accept-source-agreements
+	# Teamviewer
+	winget install -e --id TeamViewer.TeamViewer
 # NOTE: you can create a '.bat' file with the commands for the softwares you want to install and just run the 'bat' file.
 	
 
