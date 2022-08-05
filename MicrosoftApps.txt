@@ -29,6 +29,8 @@
 	winget install -e --id Discord.Discord --accept-package-agreements --accept-source-agreements
 	# Teamviewer
 	winget install -e --id TeamViewer.TeamViewer --accept-package-agreements --accept-source-agreements
+	# Update all apps
+	winget upgrade --all --accept-package-agreements --accept-source-agreements
 # NOTE: you can create a '.bat' file with the commands for the softwares you want to install and just run the 'bat' file.
 	
 
