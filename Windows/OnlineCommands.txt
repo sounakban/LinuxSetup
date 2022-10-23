@@ -50,3 +50,4 @@
 # Download Install
 # 	R-Base
 #	Lightroom
+#	Jami (P-2-P video conferencing)
