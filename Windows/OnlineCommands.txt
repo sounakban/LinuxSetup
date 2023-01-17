@@ -46,6 +46,8 @@
 #	Amazon Appstore
 #	Splash
 #	FocusCommit
+#	a9t9 (Free OCR software)
+		https://apps.microsoft.com/store/detail/a9t9-free-ocr-software/9NBLGGGZ5NSN?hl=en-us&gl=us
 	
 # Download Install
 # 	R-Base
