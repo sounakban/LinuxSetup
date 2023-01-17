@@ -21,7 +21,7 @@
 	winget install -e --id RStudio.RStudio.OpenSource --accept-package-agreements --accept-source-agreements
 	# WinSCP
 	winget install -e --id WinSCP.WinSCP --accept-package-agreements --accept-source-agreements
-	# Advanced Files app
+	# Advanced Files app [Try XYplorer  instead]
 	winget install -e --id Files-Community.Files --accept-package-agreements --accept-source-agreements
 	# Zotero
 	winget install -e --id Zotero.Zotero --accept-package-agreements --accept-source-agreements
@@ -54,3 +54,4 @@
 #	Lightroom
 #	Jami (P-2-P video conferencing)
 #	Postmaster (Advanced network control, per app DNS)
+#	XYplorer [Excellent file management app]
