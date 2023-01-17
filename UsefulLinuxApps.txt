@@ -9,6 +9,7 @@ Application Source Keys:
 Multimedia Editing:
 	*) Gimp - Adobe Photoshop Alternative, Powerful Picture Editor [AppSt]
 	*) KdenLive - Video Editor [FSA]
+	*) Pitivi - Lighweight Video Editor [AppSt]
 	*) HandBrake - Video Converter [FSA]
 	*) RawTherapee - Adobe Lightroom Alternative [AppSt]
 	*) DarkTable - Raw Image Editing [AppSt]
@@ -21,7 +22,8 @@ Multimedia Editing:
 Multimedia Viewing:
 	*) VLC [AppSt]
 	*) Kodi - Multi-Account app for Online Streaming [AppSt]
-	
+	*) gThumb - Advanced image viewer
+		
 	
 System Utilities:
 	*) Gparted [AppSt]
