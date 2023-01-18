@@ -11,7 +11,7 @@ List of useful windows software:
     • Keyfinder -  Extract License keys
 
   General Utilities:
-    • XYplorer [Excellent file management app]
+    • FreeCommander XE [Excellent file management app]
     • f.Lux - Night mode utility
     • Seer/QuickLook - Quick Preview
     • Everything - Extremely powerful Search Tool
