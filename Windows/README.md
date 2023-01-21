@@ -9,6 +9,15 @@ List of useful windows software:
     • DiskGenius/MiniTool Partition Wizard/EaseUS Partition Master - Partition Manager
     • Speccy - Detailed System Information
     • Keyfinder -  Extract License keys
+    • Sysinternsals - Extremey powerful diagnozing tools
+    • Processmanager - Advanced task manager
+    • TCPView - Advanced network tools to find all connections
+    • Windows Terminal - Useful terminal app for windows
+    	• OhMyPosh - Windows terminal customization
+    • Winget - CLI based software installation
+    	• Chocolatey - More apps for winget
+    • Windows Subsystem for Linux - Linux inside windows
+    
 
   General Utilities:
     • FreeCommander XE [Excellent file management app]
