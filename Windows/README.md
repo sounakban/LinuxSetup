@@ -89,9 +89,3 @@ List of useful windows software:
     
   Useful links:
     • https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3650754/classic-essential-free-utilities-windows-10-windows-11.amp.html?amp_js_v=a6&amp_gsa=1&usqp=mq331AQIKAGwASCAAgM%3D#aoh=16458958166749&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3650754%2Fclassic-essential-free-utilities-windows-10-windows-11.html
-	
-	
-![image](https://user-images.githubusercontent.com/11195849/213031317-74d22407-f115-4319-9528-746ff29cb63e.png)
-
-    
-  ![image](https://user-images.githubusercontent.com/11195849/213031073-5c92021a-dfd9-49a0-b708-f5622ea58fef.png)
