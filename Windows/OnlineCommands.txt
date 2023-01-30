@@ -31,6 +31,8 @@
 	winget install -e --id TeamViewer.TeamViewer --accept-package-agreements --accept-source-agreements
 	# Darktable (Adobe lightroom alternative)
 	winget install -e --id darktable.darktable --accept-package-agreements --accept-source-agreements
+	# EverythingToolbar - Advanced fast search tool
+	winget install everythingtoolbar
 	# Update all apps
 	winget upgrade --all --accept-package-agreements --accept-source-agreements
 # NOTE: you can create a '.bat' file with the commands for the softwares you want to install and just run the 'bat' file.
