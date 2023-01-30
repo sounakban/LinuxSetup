@@ -22,7 +22,7 @@
   + FreeCommander XE [Excellent file management app]
   + f.Lux - Night mode utility
   + Seer/QuickLook - Quick Preview
-  + Everything - Extremely powerful Search Tool
+  + [Everything](https://github.com/stnkl/EverythingToolbar) - Extremely powerful Search Tool
   + VMWare Free - Virtualization tool
   + Team Viewer/AnyDesk - Remote Control Desktop
   + Recuva - Recover Deleted files
