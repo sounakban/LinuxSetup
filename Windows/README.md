@@ -15,7 +15,7 @@
   + Windows Terminal - Useful terminal app for windows
     + OhMyPosh - Windows terminal customization
   + Winget - CLI based software installation
-    + Chocolatey - More apps for winget
+    + [Chocolatey](https://chocolatey.org/install) - More apps for winget
   + Windows Subsystem for Linux - Linux inside windows
     
   *General Utilities:*
