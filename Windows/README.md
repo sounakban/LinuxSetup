@@ -32,6 +32,7 @@
   + 7Zip - Zip utility
   + Teracopy - Advanced copy utility
   + Postmaster (Advanced network control, per app DNS)
+    + Safing Portmaster (Alternative)
   + Splash - Wallpapers
 
   *Productivity:*
