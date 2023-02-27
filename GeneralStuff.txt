@@ -1,0 +1,4 @@
+ > Internet Privacy
+    * More secure alternative than a VPN is using DNS servers
+      * Enable secure-DNS (HTTPS) on web browser for anonimity
+    * Other more secure alternatives is tor or Lokinet (faster than Tor)
