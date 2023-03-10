@@ -5,6 +5,10 @@ This will expplain how to use Remote Desktop Protocol to access linux systems [W
   For this use the current IP to avoid conflict
     IP and Netmask can be obtained using 'ipconfig' command
     For gateway, use the 'default' value after running 'ip route' command
+3. Change firewall settings to allow xrdp
+    For Fedora:
+      sudo firewall-cmd --permanent --add-port=3389/tcp 
+      sudo firewall-cmd --reload 
 3. Modify the following file with some text editor:
     sudo <text_editor> /etc/xrdp/xrdp.ini
     Add the following lines:
@@ -14,7 +18,7 @@ This will expplain how to use Remote Desktop Protocol to access linux systems [W
       username=na
       password=ask
       ip=127.0.0.1
-      port=5900
+      port=-1
     Save the file
 4. Restart computer
 5. Use static IP to connect to computer using windows remote desktop
