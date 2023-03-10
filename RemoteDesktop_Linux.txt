@@ -19,4 +19,7 @@ This will expplain how to use Remote Desktop Protocol to access linux systems [W
 4. Restart computer
 5. Use static IP to connect to computer using windows remote desktop
     Always select 'Local Active Session' from login dropdown menu
+6. If running default ubuntu system and having trouble, try disabling password encription using this command:
+    gsettings set org.gnome.Vino require-encryption false
   
+Other options: x2go [might be easier to setup], tigervnc
