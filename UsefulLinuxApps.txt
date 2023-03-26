@@ -46,6 +46,8 @@ Web:
 	*) Tengram - Multiaccount Manager (Whatsapp, Telegram, Drive, Mail etc...) [GA]
 	*) Rambox - Multiaccount Manager [ODA]
 	*) Fragments - Minimalist torrent client [GA]
+	*) Remote Access home network/VPN: [tailscale][https://tailscale.com/]; [SoftEther][https://www.softether.org/]; https://github.com/micahmo/WgServerforWindows
+	*) NoMachine/XRDP: Remote Desktop Applications
 	
 	
 Academic:
