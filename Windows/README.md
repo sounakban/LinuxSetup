@@ -66,7 +66,7 @@
   + Github Desktop - Git
   + Zoom - Video Conference tool
   + DNSJumper - OS DNS Setup
-  + Remote Access home network/VPN: [tailscale][https://tailscale.com/]; [SoftEther][https://www.softether.org/]; https://github.com/micahmo/WgServerforWindows
+  + Remote Access home network/VPN: [tailscale](https://tailscale.com/); [SoftEther](https://www.softether.org/); https://github.com/micahmo/WgServerforWindows
   + NoMachine/TeamRemoteDesktop (Windows only) - Remote Desktop Applications
 
   *Antivirus [Free]:*
