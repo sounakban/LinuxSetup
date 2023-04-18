@@ -52,7 +52,8 @@ Web:
 	
 Academic:
 	*) LibreOffice - Office Suite [AppSt]
-	*) OnlyOffice - Basic, word, excel and powerpoint office but more userfriendly than Libre Office [FSA]
+	*) OnlyOffice - Basic, word, excel and powerpoint office but more userfriendly (and less features) than Libre Office [FSA]
+	*) Xournal++ - PDF annotation tool (mainly for notetaking)
 	*) Master PDF Editor (64-bit) [ODA]
 	*) Zotero [AppSt]
 	*) R-base & R-Studio (Alternative: RCloud) [AppSt]
