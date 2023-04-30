@@ -1,6 +1,12 @@
 #   Description:
 # This script disables unwanted Windows services. If you do not want to disable
 # certain services comment out the corresponding lines below.
+# In case of issues running the script:
+#   1. Make sure powershell is open in admin mode
+#   2. If still not working, open powershell in admin mode and run the following command:
+#                Set-ExecutionPolicy RemoteSigned
+#   3. After Script finishes running, run the command:
+#                Set-ExecutionPolicy Restricted
 
 $services = @(
     # Xbox services
