@@ -6,6 +6,7 @@
 
   *System Utilities:*
   + PoweToys - Advanced System Features Utility
+  + WinToys - Utility to tweak windows and improve performance
   + DiskGenius/MiniTool Partition Wizard/EaseUS Partition Master - Partition Manager
   + Speccy - Detailed System Information
   + Keyfinder -  Extract License keys
