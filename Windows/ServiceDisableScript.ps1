@@ -4,7 +4,7 @@
 # In case of issues running the script:
 #   1. Make sure powershell is open in admin mode
 #   2. If still not working, open powershell in admin mode and run the following command:
-#                Set-ExecutionPolicy RemoteSigned
+#                Set-ExecutionPolicy Unrestricted
 #   3. After Script finishes running, run the command:
 #                Set-ExecutionPolicy Restricted
 
