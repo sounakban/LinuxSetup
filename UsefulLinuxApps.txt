@@ -26,6 +26,7 @@ Multimedia Viewing:
 		
 	
 System Utilities:
+	*) TLP [https://linrunner.de/tlp/index.html] - Power manaament for laptops
 	*) Gparted [AppSt]
 	*) GNOME Tweaks - A tool to twaek Gnome UX [GA]
 	*) Bottles [https://flathub.org/apps/details/com.usebottles.bottles] - User Friendly windows emulator [FEA]
