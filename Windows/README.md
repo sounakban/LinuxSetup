@@ -5,7 +5,7 @@
 ### List of useful windows software:
 
   *System Utilities:*
-  + PoweToys - Advanced System Features Utility
+  + PowerToys - Advanced System Features Utility
   + WinToys - Utility to tweak windows and improve performance
   + DiskGenius/MiniTool Partition Wizard/EaseUS Partition Master - Partition Manager
   + Speccy - Detailed System Information
@@ -18,6 +18,8 @@
   + Winget - CLI based software installation
     + [Chocolatey](https://chocolatey.org/install) - More apps for winget
   + Windows Subsystem for Linux - Linux inside windows
+  + Wiztree - HDD/SSD management utility
+  + Medicat - A bootable tool for fixing computer issues
     
   *General Utilities:*
   + FreeCommander XE [Excellent file management app]
@@ -56,6 +58,7 @@
   + Adobe Lightroom/Darktable/Gimp - Photo Editor
   + Adobe Photoshop Express
   + Jami (P-2-P video conferencing)
+  + Equalizer APO - System-wide equalizer
 
   *Web:*
   + Outlook/Mailspring/Thunderbird - Mail Client
