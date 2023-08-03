@@ -28,6 +28,8 @@
   + [Everything](https://github.com/stnkl/EverythingToolbar) - Extremely powerful Search Tool
   + VMWare Free - Virtualization tool
   + Team Viewer/AnyDesk - Remote Control Desktop
+    + Remmina - Works on local network or VPN (completely free)
+    + NoMachine - Works on local network or VPN (completely free)
   + Recuva - Recover Deleted files
   + WiFi Password Revealer - Get saved Wi-Fi Passwords
   + IObit Unlocker/LockHunter - Unlock protected files
