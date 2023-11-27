@@ -1,0 +1,12 @@
+Python:
+⚬ PyPDF: python PDF library [https://pypi.org/project/pypdf/]
+⚬ Icecream: Never use print() to debug again [https://github.com/gruns/icecream]
+⚬ Loguru: logging in Python [https://github.com/Delgan/loguru]
+⚬ Rich: writing rich text to the terminal [https://rich.readthedocs.io/en/stable/introduction.html]
+⚬ Argparse: Parser for command-line options [https://docs.python.org/3/library/argparse.html]
+⚬ Tqdm: make your loops show a smart progress meter [https://github.com/tqdm/tqdm]
+⚬ Xarray: working with labelled multi-dimensional arrays [https://github.com/pydata/xarray]
+⚬ Polars: Lightning-fast DataFrame library [https://www.pola.rs]
+⚬ Seaborn: library for making statistical graphics [https://seaborn.pydata.org/tutorial/introduction.html]
+⚬ Pydantic: data validation library [https://docs.pydantic.dev/latest/]
+⚬ Python-dotenv: Python-dotenv reads key-value pairs from a .env file and can set them as environment variables [https://saurabh-kumar.com/python-dotenv/]
