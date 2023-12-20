@@ -1,0 +1,2 @@
+Copy files with a specific format to another location:
+  find . -name "*.txt" -type f -exec cp {} ./DestinationPath \;
