@@ -26,6 +26,7 @@
   + f.Lux - Night mode utility
   + Seer/QuickLook - Quick Preview
   + [Everything](https://github.com/stnkl/EverythingToolbar) - Extremely powerful Search Tool
+  + [File Converter](https://file-converter.org/) - Convert files from many formats to many formats
   + VMWare Free - Virtualization tool
   + Team Viewer/AnyDesk - Remote Control Desktop
     + Remmina - Works on local network or VPN (completely free)
