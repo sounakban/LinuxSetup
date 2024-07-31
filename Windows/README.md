@@ -5,10 +5,12 @@
 ### List of useful windows software:
 
   *System Utilities:*
-  + PowerToys - Advanced System Features Utility
-  + WinToys - Utility to tweak windows and improve performance
+  + [PC Manager](https://pcmanager.microsoft.com/en-us) - Peform basic cleanup and system maintenance
+  + [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-us&gl=US) - Advanced System Features Utility
+  + [WinToys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) - Utility to tweak Windows and improve performance
   + DiskGenius/MiniTool Partition Wizard/EaseUS Partition Master - Partition Manager
   + Speccy - Detailed System Information
+  + [Fan Control](https://getfancontrol.com/) - Advanced fan-speed controls
   + Keyfinder -  Extract License keys
   + Sysinternsals - Extremey powerful diagnozing tools
   + Processmanager - Advanced task manager
@@ -20,11 +22,13 @@
   + Windows Subsystem for Linux - Linux inside windows
   + Wiztree - HDD/SSD management utility
   + Medicat - A bootable tool for fixing computer issues
+  + NVCleanstall - NVIDIA driver manager
     
   *General Utilities:*
   + FreeCommander XE [Excellent file management app]
   + f.Lux - Night mode utility
   + Seer/QuickLook - Quick Preview
+  + Revo Uninstaller - Advanced program uninstaller
   + [Everything](https://github.com/stnkl/EverythingToolbar) - Extremely powerful Search Tool
   + [File Converter](https://file-converter.org/) - Convert files from many formats to many formats
   + VMWare Free - Virtualization tool
