@@ -4,22 +4,26 @@
 
 ### List of useful windows software:
 
+  *Windows setup utilities:*
+  + [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) - Advanced windows setup and configuration tool
+  + [Ninite](https://ninite.com/) - Multiple app installer app.
+
   *System Utilities:*
   + [PC Manager](https://pcmanager.microsoft.com/en-us) - Peform basic cleanup and system maintenance
   + [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-us&gl=US) - Advanced System Features Utility
   + [WinToys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) - Utility to tweak Windows and improve performance
+  + Winget - CLI-based software installation
+    + [Chocolatey](https://chocolatey.org/install) - More apps for winget
   + DiskGenius/MiniTool Partition Wizard/EaseUS Partition Master - Partition Manager
   + Speccy - Detailed System Information
   + [Fan Control](https://getfancontrol.com/) - Advanced fan-speed controls
   + Keyfinder -  Extract License keys
-  + Sysinternsals - Extremey powerful diagnozing tools
+  + Sysinternsals - Extremely powerful diagnosing tools
   + Processmanager - Advanced task manager
   + TCPView - Advanced network tools to find all connections
   + Windows Terminal - Useful terminal app for windows
     + OhMyPosh - Windows terminal customization
-  + Winget - CLI based software installation
-    + [Chocolatey](https://chocolatey.org/install) - More apps for winget
-  + Windows Subsystem for Linux - Linux inside windows
+  + Windows Subsystem for Linux - Linux inside Windows
   + Wiztree - HDD/SSD management utility
   + Medicat - A bootable tool for fixing computer issues
   + NVCleanstall - NVIDIA driver manager
@@ -35,11 +39,12 @@
   + Team Viewer/AnyDesk - Remote Control Desktop
     + Remmina - Works on local network or VPN (completely free)
     + NoMachine - Works on local network or VPN (completely free)
+    + [DWService](https://www.dwservice.net/en/login.html) - Works over the internet through a web browser (completely free)
   + Recuva - Recover Deleted files
   + WiFi Password Revealer - Get saved Wi-Fi Passwords
   + IObit Unlocker/LockHunter - Unlock protected files
   + Sandboxie - Run Sandboxed Applications
-  + 7Zip - Zip utility
+  + 7Zip/Peazip - Zip utility
   + Teracopy - Advanced copy utility
   + Postmaster (Advanced network control, per app DNS)
     + Safing Portmaster (Alternative)
@@ -50,7 +55,7 @@
   + Adobe Reader/Drawboard PDF - PDF reader and editor
   + Obsidian - Graph-based Note taking app
   + OneNote - Cloud Note-taking app
-  + Journal - Note taking with stylus
+  + Journal - Note-taking with stylus
   + Windows Terminal - Command Utility/Bash-style console
   + WSL2 (Ubuntu): install anaconda and git inside
   + R (with RStudio), Anaconda - Coding
@@ -83,7 +88,7 @@
   *Antivirus [Free]:*
   + Bit Defender
   + Avira [Account not necessary]
-  + Kaspersky cloud security [Not available for all geographic locations]
+  + Kaspersky Cloud Security [Not available for all geographic locations]
 
   *HDD Optimizations:*
   + Auslogics Disk Defrag - Defragmenter software
