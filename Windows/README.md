@@ -19,6 +19,7 @@
   + [Fan Control](https://getfancontrol.com/) - Advanced fan-speed controls
   + Keyfinder -  Extract License keys
   + Sysinternsals - Extremely powerful diagnosing tools
+  + [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Extremely powerful hardware tacking and diagnosing tools
   + Processmanager - Advanced task manager
   + TCPView - Advanced network tools to find all connections
   + Windows Terminal - Useful terminal app for windows
