@@ -30,12 +30,13 @@
   + NVCleanstall - NVIDIA driver manager
     
   *General Utilities:*
-  + FreeCommander XE [Excellent file management app]
+  + [TwinkleTray](https://twinkletray.com/) - Control all monitor settings and schedule profiles from taskbar
   + f.Lux - Night mode utility
   + Seer/QuickLook - Quick Preview
   + Revo Uninstaller - Advanced program uninstaller
   + [Everything](https://github.com/stnkl/EverythingToolbar) - Extremely powerful Search Tool
   + [File Converter](https://file-converter.org/) - Convert files from many formats to many formats
+  + FreeCommander XE [Excellent file management app]
   + VMWare Free - Virtualization tool
   + Team Viewer/AnyDesk - Remote Control Desktop
     + Remmina - Works on local network or VPN (completely free)
