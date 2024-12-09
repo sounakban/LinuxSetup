@@ -1,0 +1,3 @@
+VSCode:
+  1) Change keybinding Shift+Enter to run on integrated shell instead of interactive terminal
+      File > Preferences > Keyboard Shortcuts > Change 'Python:Run Selection...' to Alt+Shift+R
